@@ -19,8 +19,8 @@ preload(){
     
     
 
-    this.load.image("win2", "./assets/images/Win2.png");
-    this.load.image("gameOver", "./assets/images/GameOver.png");
+    this.load.image("win2", "./assets/images/win2.png");
+    this.load.image("gameOver", "./assets/images/gameOver.png");
 
 
 }
